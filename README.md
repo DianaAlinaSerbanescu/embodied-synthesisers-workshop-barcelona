@@ -26,9 +26,9 @@ Each participant will receive an ESP32-S3 microcontroller, a stretch sensor and 
 
 The examples have been tested on **macOS**. This does not establish compatibility with every Mac or other operating systems. Let us know about access needs that may affect movement or use of the sensor.
 
-## Install before the workshop
+## Software for the workshop
 
-Installers should match your operating system and processor. Open each application once after installation, so any first-launch prompts can be resolved before the session.
+We’ll download, install and check the software together during the workshop. Installers should match your operating system and processor.
 
 | Software | Role in the workshop | Preparation |
 |---|---|---|
@@ -51,19 +51,15 @@ You do not need to install Python, a RAVE training environment, Wekinator or ml.
 
 ## Download the workshop pack
 
-Download: **[ADD SOFTWARE-PACK LINK]**
+Download the **[Embodied Synthesiser Software Pack (ZIP)](https://github.com/DianaAlinaSerbanescu/embodied-synthesisers-workshop-barcelona/archive/refs/heads/main.zip)**, or visit the [GitHub repository](https://github.com/DianaAlinaSerbanescu/embodied-synthesisers-workshop-barcelona) and choose **Code → Download ZIP**.
 
 Unzip the complete folder onto your laptop. Keep the accompanying `.pde`, `.java`, `.maxpat`, `.js` and audio files in their original folders; the examples depend on these relationships.
 
-Within the building-block collection, the folders are organised into:
+The pack includes the Embodied Studio interfaces, individual Processing + Max examples, and Arduino firmware for the sensor board.
 
-- **Arduino:** firmware for the sensor board.
-- **Processing + Max Building Blocks / serial:** examples using a USB connection.
-- **Processing + Max Building Blocks / wifi:** examples using a wireless connection.
+**We’ll explore and check everything in the software pack step by step together during the workshop.** I’ll guide you through which files to open, the connections and settings to use, and how to explore the sounds. There is no need to work through the examples independently beforehand.
 
-The final GitHub release will also include the Studio interface and its startup instructions. The facilitator will identify the starting example and guide the Wi-Fi connection setup. Run one sensor controller at a time and close the previous example before starting another.
-
-## Quick preparation check
+## Setup checks we’ll do together
 
 - Processing opens, and Sound and oscP5 appear in its installed libraries.
 - Max and REAPER open successfully.
