@@ -1,0 +1,82 @@
+[
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Formants/formant_engine.js",
+    "sha256": "59440bc0a2fa1fe41c240b750489b8ca6e9168eef6f312cdd866d27d50d6b94c"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Formants/Embodied_Formants.maxpat",
+    "sha256": "bddf9323e024b33eab2aca7acbf74657750790f0b787986e14196ef2a3fe839c"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Formants_Pitch/formant_pitch_engine.js",
+    "sha256": "e629bac0eb6a5fb98e04e994efbb00431bd93c72ad0b8e663939adac354a6e82"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Formants_Pitch/Embodied_Formants_Pitch.maxpat",
+    "sha256": "e94f84323ab21b79c3a638e0255fbe233d3418941248a46d47e04c7d3e33f20d"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Coloratura/coloratura_engine.js",
+    "sha256": "db2132573d4fcc10c1ddad098f21a7de904f7ffc9fc1d24167c41f6106c70f97"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Coloratura/Embodied_Coloratura.maxpat",
+    "sha256": "9783bab55a5e612a96dc84c96d65391713ebab83daeaa82822cfe526bc481dae"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Explore_Dissolve/granular_engine.js",
+    "sha256": "6f9056f51a1f71eccd2edf6887f72614941e93ea65ba47136f6c6bf48bea9d3f"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Explore_Dissolve/Embodied_Explore_Dissolve.maxpat",
+    "sha256": "4d642efd2eb738bd37bf6780ef4f6cd7bda033f590552cd927c3a62cbe721a8d"
+  },
+  {
+    "source": "outputs/Embodied_Explore_Stretch_Time/stretch_time_engine.js",
+    "sha256": "e47b12ce956d33668e3a33d8557f143052ff2a6ed760ab54347d5a39bd95fab6"
+  },
+  {
+    "source": "outputs/Embodied_Explore_Stretch_Time/Embodied_Stretch_Time.maxpat",
+    "sha256": "e24eda7d4d574c5227dd9b863c965383cb3af9f047098e1952bc5cf83b44e8d6"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Explore_Dissolve/grain_voice.maxpat",
+    "sha256": "d44eeef8b94a02c180d860f718e85c53effc3613c304f6f2a5352c2d714b2284"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Explore_Dissolve/Demo_Texture.wav",
+    "sha256": "efb7d7b987bad13d87b07ce0fc0cac2ae21544952145a0af3c3f910f97db9a80"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_Explore_Dissolve/Demo_Voice.wav",
+    "sha256": "e1cda8879c6ceafa1238d401267cb762ad37225a7b2b0e0b0d8c12a6393e6a25"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_RAVE_Controller/rave_sensor_bridge.js",
+    "sha256": "8d406a0963bdec9afa5223b3d7835c6d075a829e4317fb60108fd4ff9c2e3f53"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_RAVE_Controller/Embodied_RAVE_Controller/Embodied_RAVE_Controller.pde",
+    "sha256": "1c703877f33869c8d42b4f1d820e12a6270b726d24513b6a6074080ab17f095f"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/Embodied_RAVE_Controller/Embodied_RAVE_REAPER.maxpat",
+    "sha256": "c3f08f367cd506489e01545fea620aab5fcc7072bae6a3d75d55c6d836b049c9"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/sketch_embodied_synths_esp32s3_2sensors_serial_with_silence/sketch_embodied_synths_esp32s3_2sensors_serial_with_silence.pde",
+    "sha256": "6677d8438752d5051e653ece498d6abedf28b777cddb01526a63f6736bd1d505"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/sketch_embodied_synths_esp32s3_2sensors_serial_with_notes/sketch_embodied_synths_esp32s3_2sensors_serial_with_notes.pde",
+    "sha256": "486638cd864de38daf16a36a12c8ffced127e1392582eba9afce471bebfdffbc"
+  },
+  {
+    "source": "/Users/dserbane/Desktop/Embodied Synthesiser Workshop \u2013 Software Pack/Processing + Max Building Blocks/sketch_embodied_synths_esp32s3_2sensors_serial_with_cutoff/sketch_embodied_synths_esp32s3_2sensors_serial_with_cutoff.pde",
+    "sha256": "48c32b3959b46330d91529bb686944efe1b677521b3c3df0bb2a8928d57960e3"
+  },
+  {
+    "source": "/Users/dserbane/Documents/Max 9/Projects/Embodied_Synth_OSC/patchers/Reaper Voice Volume Control.maxpat",
+    "sha256": "294240e45a9ddcfd1d0d75a423b0fad8117d8748b1f48e6b0142fd44f3b582b6"
+  }
+]
