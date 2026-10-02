@@ -4,7 +4,7 @@ Participant preparation guide · Diana Alina Serbanescu / Neranti
 
 **When:** [6/10/2026 / 16:00]  
 **Where:** Sala Aranyó, UPF Campus Poblenou, Carrer de Roc Boronat 138, Barcelona.   
-**Contact:** diana@replica.institute
+**Contact:** diana@replica.institute // diana.serbanescu@zhdk.ch
 
 ## What we will explore
 
