@@ -10,6 +10,8 @@ Participant preparation guide · Diana Alina Serbanescu / Neranti
 
 How can a textile become a musical interface? What changes when we shape sound through tension, release and movement?
 
+<img width="1500" height="999" alt="_KAT5744_web_cover" src="https://github.com/user-attachments/assets/58458f99-cfea-45bf-a48b-50c1854eb465" />
+
 This introductory workshop connects a wearable stretch sensor to sound synthesis. We will explore how a physical gesture can shape a tone, a vocal quality or a sound texture, then use bodily interaction to manipulate pretrained RAVE neural audio models.
 
 The emphasis is on the relationship between movement and listening: hearing what a gesture does, adjusting it, and discovering how the sound influences the next movement. We will introduce the machine-learning concepts needed to explore these models. Training a new neural audio model from scratch is outside the practical scope of the workshop.
