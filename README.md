@@ -26,6 +26,8 @@ RAVE learns a compressed representation of audio, often called a *latent space*.
 
 Each participant will receive an ESP32-S3 microcontroller, a stretch sensor and a connector at the beginning of the workshop. Connection and calibration will be guided during the session.
 
+<img width="5712" height="4284" alt="toolkit" src="https://github.com/user-attachments/assets/a1f3f03b-4fcd-4a28-8d99-4d1ee48eb6ed" />
+
 The examples have been tested on **macOS**. This does not establish compatibility with every Mac or other operating systems. Let us know about access needs that may affect movement or use of the sensor.
 
 ## Software for the workshop
